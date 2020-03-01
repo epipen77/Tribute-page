@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    color: rgb(190, 117, 157); 
+    background: url(https://i.pinimg.com/originals/57/bb/66/57bb66cb4895565d755910654a6b0c80.jpg);
+    background-size: contain;
+
+
+}
+#img-div {
+
+    margin: auto;
+    width: 50%; 
+    
+  }
+
+  #image {
+      background: orange;
+      width: 70%;
+      max-width: 100%;
+      border: 15px solid white;
+  }
+
+#img-caption {
+    background: white;
+    margin: 15px 50px;
+    color: black;
+}
+
+.general-info {
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: white; 
+}
+
+#tribute-link {
+    text-decoration: underline;
+    color: rgb(158, 2, 67);
+}
